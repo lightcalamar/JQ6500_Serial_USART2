@@ -2,6 +2,7 @@ JQ6500_Serial_USART2
 =======================
 
 Modificación de la libreria JQ6500_Serial para utilizar puerto serie hardware alternativo de las placas STM32
+Para usar en placas STM32 cob la serie STM32F407x. Use este core STM32GENERIC para su correcto funcionamineto en este enlace; https://github.com/lightcalamar/STM32GENERIC_FT8XX
 
 Modificado por RndMnkIII. 27-07-2017
 
